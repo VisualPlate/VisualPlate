@@ -1,14 +1,11 @@
-<pre>
--Hi, I'm VisualPlate!
+# Hi, I'm VisualPlate! 👋
 
--I'm a programmer in C# and Lua.
+I'm a programmer specializing in **C#** and **Lua**.  
+I also work on:
 
--I also do 
-  -3D-modelling,
-  -graphical designs,
-  -textures, 
-  mostly for games.
-</pre>
+- 🎨 **3D Modelling**
+- 🖌️ **Graphical Design**
+- 🪵 **Textures** — mostly for games
 
 <!---
 VisualPlate/VisualPlate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
