@@ -1,4 +1,4 @@
-# 👋 Hi, I'm VisualPlate! 
+# 👋 Hi! 
 
 I'm a programmer specializing in **C#** and **Lua** with interest in designing software.
 ## 📌 Main Skills
